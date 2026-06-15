@@ -1,0 +1,20 @@
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# PDF Processing
+pypdf==3.17.4
+
+# HTTP Client
+httpx==0.26.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Environment
+python-dotenv==1.0.0
+
+# Async
+python-multipart==0.0.6
+
+# Logging
+loguru==0.7.2
